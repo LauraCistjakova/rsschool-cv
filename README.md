@@ -10,7 +10,7 @@ I am a Financial Analyst with a solid background in financial analysis and repor
 * HTML & CSS
 * Typescript
 ### Code example
-> alert("Hello, everyone!")
+> alert("Hello, everyone!")  
 ### Expieriance
 AS SunFinance  
 _Financial analyst_
